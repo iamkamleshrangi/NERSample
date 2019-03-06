@@ -1,0 +1,11 @@
+database:
+  host: 127.0.0.1
+  port: 27017
+  dbname: 
+  password:
+  user:
+  spot_db: spot_db
+  spot_col: jobs
+settings:
+  project_path: /Users/kamlesh/WorkSpace/simpleSpider
+  public_path: /Users/kamlesh/WorkSpace/simpleSpider/public/
